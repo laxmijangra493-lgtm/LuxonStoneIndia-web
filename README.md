@@ -12,7 +12,7 @@ Open `index.html` in a browser, or use a tiny local server:
 python3 -m http.server 8080
 ```
 
-Then open `http://localhost:8080`.
+Then open http://localhost:8080.
 
 ## Notes
 - Brand is written as **Luxon Stone India** throughout the experience.
