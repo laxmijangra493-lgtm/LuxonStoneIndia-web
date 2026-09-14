@@ -1,3 +1,6 @@
+<img width="1440" height="1440" alt="image" src="https://github.com/user-attachments/assets/205e1158-05a3-4132-9289-23a8169420b0" />
+
+
 # Luxon Stone India — Premium B2B Website
 
 Static production-style marketing site built from the supplied Luxon Stone India B2B digital architecture blueprint and uploaded reference photography.
