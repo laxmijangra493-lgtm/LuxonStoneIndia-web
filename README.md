@@ -2,6 +2,7 @@
 
 
 # Luxon Stone India — B2B Website
+https://luxonstoneindia.netlify.app/
 
 Static production-style marketing site built from the supplied Luxon Stone India B2B digital architecture blueprint and uploaded reference photography.
 
