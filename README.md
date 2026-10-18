@@ -2,7 +2,7 @@
 
 
 # Luxon Stone India — B2B Website portotype
-### Client's type
+### Client's portotype website
 
 👉 https://luxonstoneindia.netlify.app/
 
